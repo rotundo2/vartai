@@ -278,7 +278,6 @@
   window.onhashchange = function() { 
       var hash = window.location.hash;
       var anchor = $('a[href$="'+hash+'"]');
-      console.log(anchor);
       if (anchor.length > 0){
         anchor.click();
         anchor.get(0).scrollIntoView();
