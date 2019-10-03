@@ -4,7 +4,7 @@
 
 Jeigu čia atėjote, tikriausiai žinote ką darote ir norite bendros repo maintenance info.
 
-Čia nesaugom _JOKIOS_ informacijos apie vartotojus, tel. numerius, vardus etc. Repo yra PUBLIC ir skirtas tik instrukcijoms per Github Pages pateikti, kad vartotojai žinotų **ko** galima prašyti administratoriaus ir **kaip**.
+Čia nesaugom _JOKIOS_ informacijos apie vartotojus, tel. numerius, vardus etc. Išskyrus Google grupę. Repo yra PUBLIC ir skirtas tik instrukcijoms per Github Pages pateikti, kad vartotojai žinotų **ko** galima prašyti administratoriaus ir **kaip**.
 
 Instrukcijos galioja tol, kol atsiras nuolatinis administratorius. Jos gali keistis bet kada be išankstinio įspėjimo.
 
