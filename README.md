@@ -8,7 +8,7 @@ Jeigu čia atėjote, tikriausiai žinote ką darote ir norite bendros repo maint
 
 Instrukcijos galioja tol, kol atsiras nuolatinis administratorius. Jos gali keistis bet kada be išankstinio įspėjimo.
 
-Puslapio nuoroda: [rotundo2.github.io/vartai](rotundo2.github.io/vartai)
+Puslapio nuoroda: [rotundo2.github.io/vartai](https://rotundo2.github.io/vartai)
 
 ---
 
